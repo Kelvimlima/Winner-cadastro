@@ -7,3 +7,4 @@ Além disso,antes de executar a aplicação do xampp, cópia o projeto
 para a pasta htdocs. Depois inicie a aplicação(xampp) e start 
 apache e MySQL. Em seguida, digite na URL do navegador "localhost".
 
+a aplicação está em andamento e ainda está em criação sem usar uma Framework.
